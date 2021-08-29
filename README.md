@@ -15,7 +15,7 @@ Having friends with disabilities, I know first hand that many websites and onlin
 
 This is the screenshot of the project:
 
-![](assets/images/shot.JPG)
+![](assets/images/shot.jpg)
 
 
 ##
