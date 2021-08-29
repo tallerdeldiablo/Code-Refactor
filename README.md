@@ -15,9 +15,8 @@ Having friends with disabilities, I know first hand that many websites and onlin
 
 This is the screenshot of the project:
 
-```md
-    ![alt text](assets/images/search-engine-optimization.jpg)
-    ```
+![](assets/images/search-engine-optimization.jpg)
+
 
 ##
 
